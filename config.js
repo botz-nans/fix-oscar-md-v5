@@ -1,13 +1,13 @@
-global.you = ['6285850539404'] 
+global.you = ['6285880029379'] 
 //Developer Bot
-global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
-global.police = ['6285850539404'] // Police Bot
-global.mods = ['6285850539404']  // Want some help?
-global.prems = ['6285850539404'] // Premium user has unlimited limit
+global.namebot = 'Nans Xyzz'
+global.rowner = ['6285880029379', '6285880029379'] // Real Owner Bot
+global.owner = ['6285880029379'] // Owner Bot
+global.police = ['6285880029379'] // Police Bot
+global.mods = ['6285880029379']  // Want some help?
+global.prems = ['6285880029379'] // Premium user has unlimited limit
 
-global.helper = ['6285850539404']
+global.helper = ['6285880029379']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -84,9 +84,9 @@ global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/Jarotr_'
 global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = '@nansxyzz'
+global.author = 'Oscar-Md'
+global.wm = '©nansxyzz'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
